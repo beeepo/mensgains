@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:02:26	14546/14546	---M-Z	200	added ('OK')	text/html	date:Tue,%2001%20Sep%202026%2017:02:26%20GMT	http://usman_utd%40yahoo.com:mofi49@verifiedmemberaccess.com/members.php	D:/WinHTTrack/funnelwebsitemengains/verifiedmemberaccess.com/members.html	(from )
+19:02:26	119/119	---M-Z	200	added ('OK')	text/plain	date:Tue,%2001%20Sep%202026%2017:02:27%20GMT	http://usman_utd%40yahoo.com:mofi49@verifiedmemberaccess.com/robots.txt		(from )
+19:02:27	89501/89501	---M-Z	200	added ('OK')	application/javascript	etag:W/%2228feccc0-15d9d%22	https://code.jquery.com/jquery-3.6.0.min.js	D:/WinHTTrack/funnelwebsitemengains/code.jquery.com/jquery-3.6.0.min.js	(from http://usman_utd%40yahoo.com:mofi49@verifiedmemberaccess.com/members.php)
