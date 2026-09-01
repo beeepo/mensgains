@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+verifiedmemberaccess.com	TRUE	/	FALSE	1999999999	PHPSESSID	29c6a6369eb31323d39a5e83f6c66fe0
+paypal.com	TRUE	/	FALSE	1999999999	ts	vreXpYrS%3D1819809176%26vteXpYrS%3D1788274976%26vr%3D5d6330451a0647e06539c54df86f1aaa%26vt%3D5d6330451a0647e06539c54df86f1aa9%26vtyp%3Dnew
+paypal.com	TRUE	/	FALSE	1999999999	ts_c	vr%3D5d6330451a0647e06539c54df86f1aaa%26vt%3D5d6330451a0647e06539c54df86f1aa9
+verifiedmemberaccess.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+

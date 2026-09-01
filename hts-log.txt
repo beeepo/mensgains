@@ -1,0 +1,33 @@
+HTTrack3.50-0 launched on Tue, 01 Sep 2026 16:32:17 at https://penisprofessor.com/ https://verifiedmemberaccess.com/ usman_utd%40yahoo.com:mofi49@https://verifiedmemberaccess.com/members.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://penisprofessor.com/ https://verifiedmemberaccess.com/ usman%5futd%40yahoo%2ecom:mofi49@https://verifiedmemberaccess.com/members.php -O1 "D:\WinHTTrack\mensgains" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:33:05	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+16:33:05	Info: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/usman_utd%40yahoo.com:mofi49@https://verifiedmemberaccess.com/members.php (from primary/primary)
+16:33:07	Error: 	"Not Found" (404) at link https://penisprofessor.com/members/images/memberloginroll.png (from https://penisprofessor.com/)
+16:33:13	Error: 	"Forbidden" (403) at link https://smtpjs.com/v3/smtp.js (from https://penisprofessor.com/)
+16:33:20	Info: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/usman_utd%40yahoo.com:mofi49@https://verifiedmemberaccess.com/members.php (from primary/primary)
+16:33:20	Error: 	"Not Found" (404) at link https://penisprofessor.com/video/CoupleFIN.webm (from https://penisprofessor.com/Testimonials.php)
+16:33:20	Error: 	"Not Found" (404) at link https://penisprofessor.com/video/CoupleFIN.ogg (from https://penisprofessor.com/Testimonials.php)
+16:33:20	Error: 	"Not Found" (404) at link https://penisprofessor.com/video/CoupleFIN.flv (from https://penisprofessor.com/Testimonials.php)
+16:33:20	Error: 	"Not Found" (404) at link https://penisprofessor.com/video/SpanishFIN.webm (from https://penisprofessor.com/Testimonials.php)
+16:33:20	Error: 	"Not Found" (404) at link https://penisprofessor.com/video/SpanishFIN.ogg (from https://penisprofessor.com/Testimonials.php)
+16:33:20	Error: 	"Not Found" (404) at link https://penisprofessor.com/video/SpanishFIN.flv (from https://penisprofessor.com/Testimonials.php)
+16:33:20	Error: 	"Not Found" (404) at link https://penisprofessor.com/video/WhiteFIN.webm (from https://penisprofessor.com/Testimonials.php)
+16:33:20	Error: 	"Not Found" (404) at link https://penisprofessor.com/video/WhiteFIN.ogg (from https://penisprofessor.com/Testimonials.php)
+16:33:20	Error: 	"Not Found" (404) at link https://penisprofessor.com/video/WhiteFIN.flv (from https://penisprofessor.com/Testimonials.php)
+16:33:20	Warning: 	Moved Permanently for https://verifiedmemberaccess.com/?p=2
+16:33:20	Warning: 	File has moved from https://verifiedmemberaccess.com/?p=2 to https://verifiedmemberaccess.com/sample-page/
+16:33:20	Warning: 	Found for https://verifiedmemberaccess.com/wp-admin/
+16:33:20	Warning: 	File has moved from https://verifiedmemberaccess.com/wp-admin/ to https://verifiedmemberaccess.com/wp-login.php?redirect_to=https%3A%2F%2Fverifiedmemberaccess.com%2Fwp-admin%2F&reauth=1
+16:33:21	Warning: 	Moved Permanently for https://verifiedmemberaccess.com/?p=1
+16:33:21	Warning: 	File has moved from https://verifiedmemberaccess.com/?p=1 to https://verifiedmemberaccess.com/2022/09/27/hello-world/
+16:33:22	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/usman_utd%40yahoo.com:mofi49@https://verifiedmemberaccess.com/members.php (from primary/primary)
+16:33:33	Error: 	"Not Found" (404) at link https://verifiedmemberaccess.com/wp-admin/&reauth=1 (from https://verifiedmemberaccess.com/wp-login.php?redirect_to=https%3A%2F%2Fverifiedmemberaccess.com%2Fwp-admin%2F%26reauth=1)
+
+HTTrack Website Copier/3.50-0 mirror complete in 1 minutes 17 seconds : 104 links scanned, 83 files written (19858731 bytes overall) [19111877 bytes received at 248206 bytes/sec], 1297634 bytes transferred using HTTP compression in 59 files, ratio 32%, 1.5 requests per connection
+(14 errors, 6 warnings, 2 messages)
